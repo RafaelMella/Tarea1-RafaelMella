@@ -1,0 +1,100 @@
+body{
+	font-family: 'Gloria Hallelujah', cursive;
+	min-height: 98vh;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+#navegador{
+	float: right;	
+}
+
+a:visited{
+
+	color: black;
+}
+
+nav ul li{
+list-style: none;
+margin: 10px;
+ float: right;
+    padding-top: 10px;
+    padding-right: 20px;
+    margin-bottom: 0;
+    color
+}
+
+
+#titulo{
+	border-style: double;
+	border: 2px solid black;
+	text-align: center;
+	padding-left: 210px;
+	padding-top: 30px;
+}
+
+aside{
+
+
+	width: 20%;
+	margin: 0px auto;
+	text-align: center;
+}
+
+article{
+text-align: center;
+padding-top: 40px;
+
+}
+
+form{
+margin: 0 auto;
+width: 300px;
+
+
+}
+
+#botton{
+	padding-left: 10px;
+}
+
+#nameContact{
+	padding-top: 20px;
+}
+
+#emailContact{
+	padding-top: 20px;
+}
+
+#messaggeContact{
+	padding-top: 20px;
+}
+
+#sumbit{
+padding-left: 90px;
+}
+
+.btn{
+
+	border-radius: 3px;
+	display: inline-block;
+	padding: 20px 15px;
+	text-decoration: none;
+	text-shadow: 0 1ps 0 rgba(255,255,255,0.3);
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+	
+}
+
+input[type = "text"]{
+ 
+ width: 400px;
+ height: 25px;
+
+}
+
+#message{
+	width: 400px;
+	height: 150px;
+}
+

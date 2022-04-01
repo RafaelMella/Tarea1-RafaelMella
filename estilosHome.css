@@ -1,0 +1,92 @@
+body{
+ 
+ 
+	font-family: 'Gloria Hallelujah', cursive;
+	min-height: 98vh;
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+}
+}
+
+#pagina{
+    border-style: double;
+	border: 2px solid black;
+}
+
+#navegador{
+	float: right;
+
+	
+}
+
+#titulo{
+	border-style: double;
+	border: 2px solid black;
+	text-align: center;
+	padding-left: 210px;
+	padding-top: 30px;
+}
+a:visited{
+
+	color: black;
+}
+
+
+aside{
+
+
+	width: 20%;
+	margin: 0px auto;
+	text-align: center;
+}
+
+#contenido{
+padding-top: 150px;
+
+}
+#article1{
+	width:  70%;
+	margin: 0px auto;
+	border-style: double;
+	border: 2px solid black;
+	text-align: center;
+
+
+
+
+}
+
+#article2{
+	width:  70%;
+	margin: 0px auto;
+	border-style: double;
+	border: 2px solid black;
+	text-align: center;
+	padding-top: 20px;
+}
+
+footer{
+	text-align: center;
+
+}
+
+nav ul li{
+list-style: none;
+margin: 10px;
+ float: right;
+    padding-top: 10px;
+    padding-right: 20px;
+    margin-bottom: 0;
+    color
+}
+
+.clearfix{
+	clear: both;
+}
+
+#tituloMensaje{
+
+	text-align: center;
+	padding-top: 40px;
+}
